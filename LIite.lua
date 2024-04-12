@@ -25,8 +25,8 @@ Tab:AddButton({
 })
 
 Tab:AddButton({
-	Name = "Prison Life",
+	Name = "Prison Life(admin)",
 	Callback = function()
-         loadstring(game:HttpGet("https://pastebin.com/raw/rfAULQ83"))() 
+         loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife'),true))( 
   	end    
 })
