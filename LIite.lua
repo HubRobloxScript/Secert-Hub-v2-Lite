@@ -27,6 +27,6 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "Prison Life",
 	Callback = function()
-        loadstring(game:HttpGet("https://pastebin.com/raw/rfAULQ83"))() 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobExploits/scripts/main/MainScript.lua"))() 
   	end    
 })
