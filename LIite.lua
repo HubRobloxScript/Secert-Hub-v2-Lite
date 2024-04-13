@@ -30,3 +30,10 @@ Tab:AddButton({
          loadstring(game:HttpGet("https://raw.githubusercontent.com/dalloc2/Roblox/main/TigerAdmin.lua"))()
   	end    
 })
+
+Tab:AddButton({
+	Name = "Prison Life(Septex)",
+	Callback = function()
+         loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife'),true))()
+  	end    
+})
