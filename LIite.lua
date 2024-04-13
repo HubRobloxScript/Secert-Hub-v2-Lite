@@ -27,6 +27,6 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "Prison Life(admin)",
 	Callback = function()
-         loadstring(game:HttpGet('https://raw.githubusercontent.com/H17S32/Tiger_Admin/main/Script'))()
+         loadstring(game:HttpGet("https://raw.githubusercontent.com/dalloc2/Roblox/main/TigerAdmin.lua"))()
   	end    
 })
